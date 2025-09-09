@@ -1,4 +1,5 @@
-# School Website Setup Guide
+# School Website Setup Guide 
+INBOX FOR FULL ZIP FOLDER 
 
 ## 🎓 Welcome to Your School Website!
 
